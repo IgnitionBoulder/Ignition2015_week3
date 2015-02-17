@@ -3,6 +3,7 @@
 ##### Questions
 - What is a framework?  
 In computer programming, a software framework is an abstraction in which software providing generic functionality can be   selectively changed by additional user-written code, thus providing application-specific software.
+(The framework should follow good Model-View-Controller (MVC) separation principles.)
 
 - What's the difference between a programming language and a framework?
 A language is syntax, grammar, semantics (and perhaps a core library) that implementers are required to support. A framework is a cohesive set of library code that together simplifies programming in any given language.
