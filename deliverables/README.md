@@ -9,6 +9,7 @@
 - What’s the difference between a library and a framework?  
 
 - What languages have frameworks?  
+  Pretty much all of the most prevelent languages have a frameworks. These include ASP.NET, C, C++, ColdFusion Markup Language, D, Haskell, Java, JavaScript, Scala, Perl, PHP, Python, and Ruby to name the most important and well known languages.       
 
 ##### Project
 - blogger GitHub repo: 
