@@ -14,3 +14,4 @@
 
 ### Thursday
 - Check in on homework
+- Workflow and sharing projects on C9 walk through
