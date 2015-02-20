@@ -14,6 +14,7 @@
 
 ### Thursday
 - Check in on homework. questions / points of clarification
+- variable naming
 - Workflow and sharing projects on C9 walk through
 - localhost, 0.0.0.0, 127.0.0.1 vs the given url (https://jumpstart-blogger-kmanzana1.c9.io/)
 - cover basics of arrays or hashes
