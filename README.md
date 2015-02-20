@@ -5,10 +5,10 @@
   A framework is a batch of code that allows their applications to perform basic tasks which is recycled together and able to be reused.  
 
 - What's the difference between a programming language and a framework?  
-
+A progamming language is a collection of syntax, grammar, and semantics while a framework is the skeleton built out of that language.  
 
 - What’s the difference between a library and a framework?
-
+A library is a collection of class definitions while a framework is a reuseable "skeleton" that has blank spaces which are expected to be filled in.  
 
 - What languages have frameworks?  
 Ruby, Python, PHP, Perl, ColdFusion.  
