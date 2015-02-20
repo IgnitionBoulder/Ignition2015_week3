@@ -10,7 +10,7 @@
 - What’s the difference between a library and a framework?
 
 
-- What languages have frameworks?
+- What languages have frameworks?  
 Ruby, Python, PHP, Perl, ColdFusion.  
 
 #### Resources
