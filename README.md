@@ -1,10 +1,17 @@
 # Ignition 2015 Week 3: Intro to Rails
 ### Required
 #### Ponder and answer these questions as you work through the other material for this week.
-- What is a framework?
-- What's the difference between a programming language and a framework?
+- What is a framework?  
+  A framework is a batch of code that allows their applications to perform basic tasks which is recycled together and able to be reused.  
+
+- What's the difference between a programming language and a framework?  
+
+
 - What’s the difference between a library and a framework?
+
+
 - What languages have frameworks?
+Ruby, Python, PHP, Perl, ColdFusion.  
 
 #### Resources
 - Read [“what is a framework” description](http://www.google.com/url?q=http%3A%2F%2Fwww.theodinproject.com%2Fweb-development-101%2Fintroduction-to-frameworks&sa=D&sntz=1&usg=AFQjCNHVhJ11ysP5eoUpwh7t-A7kzNPjrg) on the Odin project.
