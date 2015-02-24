@@ -15,7 +15,7 @@ All languages can use a pairing framework, however there are more popular pairs 
 Other example framework languages are:Ember, Meteor, Django, Rails, Grok, sinatra and MERB.
 
 ##### Project
-- blogger GitHub repo: 
+- blogger GitHub repo: https://github.com/chloewolf/Blogger_groupproject
 - heroku blogger app link: https://secret-headland-9631.herokuapp.com/articles.6
 
 #### Optional
