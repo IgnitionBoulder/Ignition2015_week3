@@ -15,8 +15,8 @@ A library is a set of objects and functions that is focused around solving a par
 Vitually all languages have frameworks. 
 
 ##### Project
-- blogger GitHub repo: 
-- heroku blogger app link:
+- blogger GitHub repo: https://github.com/AlexandraWeiner/jumpstart_blogger
+- heroku blogger app link: https://jumpstart-blogger-alexandraweiner.c9.io/
 
 #### Optional
 Rails for Zombies profile link:
