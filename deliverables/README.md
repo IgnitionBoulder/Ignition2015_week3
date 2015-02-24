@@ -19,4 +19,4 @@ All languages can use a pairing framework. Popular framework languages are: Ruby
 - heroku blogger app link: https://secret-headland-9631.herokuapp.com/articles.6 
 
 #### Optional
-Rails for Zombies profile link:
+Rails for Zombies profile link: https://www.codeschool.com/users/bpatience
