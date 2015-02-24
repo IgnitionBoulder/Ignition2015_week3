@@ -16,7 +16,7 @@ Other example framework languages are:Ember, Meteor, Django, Rails, Grok, sinatr
 
 ##### Project
 - blogger GitHub repo: 
-- heroku blogger app link:
+- heroku blogger app link: https://secret-headland-9631.herokuapp.com/articles.6
 
 #### Optional
 Rails for Zombies profile link:
