@@ -1,10 +1,17 @@
 # Ignition 2015 Week 3: Intro to Rails
 ### Required
 #### Ponder and answer these questions as you work through the other material for this week.
-- What is a framework?
-- What's the difference between a programming language and a framework?
+- What is a framework?  
+  A framework is a batch of code that allows their applications to perform basic tasks which is recycled together and able to be reused.  
+
+- What's the difference between a programming language and a framework?  
+A progamming language is a collection of syntax, grammar, and semantics while a framework is the skeleton built out of that language.  
+
 - What’s the difference between a library and a framework?
-- What languages have frameworks?
+A library is a collection of class definitions while a framework is a reuseable "skeleton" that has blank spaces which are expected to be filled in.  
+
+- What languages have frameworks?  
+Ruby, Python, PHP, Perl, ColdFusion.  
 
 #### Resources
 - Read [“what is a framework” description](http://www.google.com/url?q=http%3A%2F%2Fwww.theodinproject.com%2Fweb-development-101%2Fintroduction-to-frameworks&sa=D&sntz=1&usg=AFQjCNHVhJ11ysP5eoUpwh7t-A7kzNPjrg) on the Odin project.
@@ -16,7 +23,9 @@
   - In this project, you need use a Cloud9 “Custom” workspace (“Custom” and not “Rails” because you will be setting up your own Rails app inside the Custom workspace). 
   - Set up the the workspace such that you create the `blogger` rails folder within your project, but that you only commit the `blogger` folder to GitHub.  This means you will need to run `git init` within `blogger` and do all your commits from there.
   - Starting the app up is going to be different than what Jumpstart Labs tells you.  You are going to run `rails s -p $PORT -b $IP` in the Cloud9 terminal and then visit the link it tells you in the pop up.
-  - Each individual needs to put a link to this repo in their deliverables/README.md.
+  - Each individual needs to put a link to this repo in their deliverables/README.md.  
+  - https://blogger-groupproject-chloewolf.c9.io/  
+  
 - Once you get your app working on your Cloud9 workspace (or at the very end), deploy it to Heroku (here’s [how](http://installfest.railsbridge.org/installfest/deploy_a_rails_app), and here’s some [additional help](http://www.theodinproject.com/ruby-on-rails/deployment). 
   - Stuck? Here’s some [common problems](https://gist.github.com/burtlo/4970471) people run into during the Jumpstart tutorial
   - Include a link to your app on heroku in your deliverables/README.md
