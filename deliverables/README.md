@@ -14,7 +14,7 @@
     - 
 
 ##### Project
-- blogger GitHub repo: 
+- blogger GitHub repo: https://ide.c9.io/brookhernandez/jumpstart_blogger
 - heroku blogger app link:
 
 #### Optional
