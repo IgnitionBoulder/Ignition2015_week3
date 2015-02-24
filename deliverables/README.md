@@ -2,6 +2,7 @@
 #### Required
 ##### Questions
 - What is a framework?
+
 A web framework is a code library that provides functionalities in the code or through extensions that perform common operations required to run web apps. Frameworks are built by reusing code for common HTTP operations and structuring projects so developers can more quickly build and maintain the applications.
 
 - What's the difference between a programming language and a framework?
