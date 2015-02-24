@@ -12,6 +12,7 @@ A language is syntax, grammar, semantics (and perhaps a core library) that imple
 A library is a set of objects and functions that is focused around solving a particular problem or around a specific area of application development (i.e. database access); a framework on the other hand is a collection of libraries centered around a particular methodology (i.e. MVC) and covers all areas of application development. (example: framework is changing strap on backpack and library is adding waterbottle to backpack)
 
 - What languages have frameworks?
+Vitually all languages have frameworks. 
 
 ##### Project
 - blogger GitHub repo: 
