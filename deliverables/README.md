@@ -16,7 +16,7 @@
 ##### Project
 - blogger GitHub repo: https://github.com/IanSharp93/jumpstart_blogger.git
 
-- heroku blogger app link:
+- heroku blogger app link: http://intense-badlands-6827.herokuapp.com/
 
 #### Optional
 Rails for Zombies profile link:
