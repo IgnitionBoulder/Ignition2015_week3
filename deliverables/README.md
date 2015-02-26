@@ -14,9 +14,9 @@
   Pretty much all of the most prevelent languages have a frameworks. These include ASP.NET, C, C++, ColdFusion Markup Language, D, Haskell, Java, JavaScript, Scala, Perl, PHP, Python, and Ruby to name the most important and well known languages.       
 
 ##### Project
-- blogger GitHub repo:  https://github.com/albatross7817/jumpstart_blogger
+- blogger GitHub repo:  https://github.com/albatross7817/heroku_jumpstart_blogger.git
 
-- heroku blogger app link: http://intense-badlands-6827.herokuapp.com
+- heroku blogger app link:  http://intense-badlands-6827.herokuapp.com
 
 #### Optional
 Rails for Zombies profile link:
