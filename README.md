@@ -16,10 +16,11 @@
   - In this project, you need use a Cloud9 “Custom” workspace (“Custom” and not “Rails” because you will be setting up your own Rails app inside the Custom workspace). 
   - Set up the the workspace such that you create the `blogger` rails folder within your project, but that you only commit the `blogger` folder to GitHub.  This means you will need to run `git init` within `blogger` and do all your commits from there.
   - Starting the app up is going to be different than what Jumpstart Labs tells you.  You are going to run `rails s -p $PORT -b $IP` in the Cloud9 terminal and then visit the link it tells you in the pop up.
-  - Each individual needs to put a link to this repo in their deliverables/README.md.
+  - Each individual needs to put a link to this repo in their deliverables/README.md.  https://github.com/econno11y/github_blogger
 - Once you get your app working on your Cloud9 workspace (or at the very end), deploy it to Heroku (here’s [how](http://installfest.railsbridge.org/installfest/deploy_a_rails_app), and here’s some [additional help](http://www.theodinproject.com/ruby-on-rails/deployment). 
   - Stuck? Here’s some [common problems](https://gist.github.com/burtlo/4970471) people run into during the Jumpstart tutorial
-  - Include a link to your app on heroku in your deliverables/README.md
+  - Include a link to your app on heroku in your deliverables/README.md  
+  - https://boiling-woodland-1388.herokuapp.com/articles/new
 - If you’d like to take it to the next level, do section I5 with authentication, and even I6 if you are feeling extra crazy. 
 
 ### Optional
