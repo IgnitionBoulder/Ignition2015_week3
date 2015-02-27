@@ -1,7 +1,8 @@
 # Ignition 2015 Week 3: Intro to Rails
 ### Required
 #### Ponder and answer these questions as you work through the other material for this week.
-- What is a framework?
+- What is a framework?  
+- A collection of tools and organizational structure that helps you
 - What's the difference between a programming language and a framework?
 - What’s the difference between a library and a framework?
 - What languages have frameworks?
