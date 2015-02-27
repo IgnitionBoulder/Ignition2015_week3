@@ -15,8 +15,8 @@
 
 
 ##### Project
-- blogger GitHub repo: 
-- heroku blogger app link:
+- blogger GitHub repo: https://github.com/econno11y/github_blogger
+- heroku blogger app link:https://boiling-woodland-1388.herokuapp.com/
 
 #### Optional
 Rails for Zombies profile link:
