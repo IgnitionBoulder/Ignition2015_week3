@@ -16,7 +16,7 @@ Libraries are bundles of re-usable code that can also help you develop an applic
 
 ##### Project
 - blogger GitHub repo: https://github.com/econno11y/github_blogger
-- heroku blogger app link:
+- heroku blogger app link:https://boiling-woodland-1388.herokuapp.com/articles/new
 
 #### Optional
 Rails for Zombies profile link:
