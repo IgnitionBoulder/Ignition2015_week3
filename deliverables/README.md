@@ -15,7 +15,7 @@ Libraries are bundles of re-usable code that can also help you develop an applic
 - CSS  
 
 ##### Project
-- blogger GitHub repo: 
+- blogger GitHub repo: https://github.com/econno11y/github_blogger
 - heroku blogger app link:
 
 #### Optional
