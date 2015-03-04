@@ -7,7 +7,7 @@
 - A language is syntax, grammar, semantics (and perhaps a core library) that implementers are required to support. A framework is a cohesive set of library code that together simplifies programming in any given language.
 - **What’s the difference between a library and a framework?**
 - The key difference between a library and a framework is "Inversion of Control". When you call a method from a library, you are in control. But with a framework, the control is inverted: the framework calls you.
-- 
+
 
 ##### Project
 - blogger GitHub repo: 
