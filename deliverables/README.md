@@ -11,4 +11,4 @@
 - heroku blogger app link: http://vast-shore-8533.herokuapp.com/articles
 
 #### Optional
-Rails for Zombies profile link:
+Rails for Zombies profile link
