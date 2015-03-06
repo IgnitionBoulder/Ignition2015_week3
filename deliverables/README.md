@@ -10,7 +10,7 @@
 - What languages have frameworks?
 Ruby and Java. Possibly other backend dev.
 ##### Project
-- blogger GitHub repo: 
+- blogger GitHub repo: https://github.com/aigo6912/blogger1
 - heroku blogger app link:
 
 #### Optional
