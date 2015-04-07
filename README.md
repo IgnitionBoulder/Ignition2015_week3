@@ -2,9 +2,13 @@
 ### Required
 #### Ponder and answer these questions as you work through the other material for this week.
 - What is a framework?
+An abstraction that provides application-specific software that can be selectively changed by users.
 - What's the difference between a programming language and a framework?
+A programming language is the bones of a framework. It makes up applications, libraries, etc...  A framework is like a library in that it cuts a large deal of coding out of your work and sets the stage for doing lots of ...things?... quicker and easier.  That seems to make sense right?
 - What’s the difference between a library and a framework?
+A library is a group of functions and objects that serve a specific purpose while a framework is a collection of libraries that have more broad uses generally made for applications
 - What languages have frameworks?
+Well i'm just throwing it out there but I'm pretty sure you can make a framework for pretty much any language.  I dunno, maybe I'm just throwing this out my ass right now.
 
 #### Resources
 - Read [“what is a framework” description](http://www.google.com/url?q=http%3A%2F%2Fwww.theodinproject.com%2Fweb-development-101%2Fintroduction-to-frameworks&sa=D&sntz=1&usg=AFQjCNHVhJ11ysP5eoUpwh7t-A7kzNPjrg) on the Odin project.
