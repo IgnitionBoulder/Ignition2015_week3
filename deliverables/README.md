@@ -7,8 +7,8 @@
 - What languages have frameworks?
 
 ##### Project
-- blogger GitHub repo: 
-- heroku blogger app link:
+- blogger GitHub repo: https://github.com/marua7665/jumpstartblogger
+- heroku blogger app link: tranquil-chamber-5386.herokuapp.com
 
 #### Optional
 Rails for Zombies profile link:
