@@ -8,7 +8,7 @@
 
 ##### Project
 - blogger GitHub repo: https://github.com/marua7665/jumpstartblogger
-- heroku blogger app link: tranquil-chamber-5386.herokuapp.com
+- heroku blogger app link: http://tranquil-chamber-5386.herokuapp.com/
 
 #### Optional
 Rails for Zombies profile link:
